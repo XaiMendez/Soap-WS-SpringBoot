@@ -1,4 +1,4 @@
-#Spring Boot -  Web Services
+#Spring Boot -  Web Services from XSD
 
 ###### MAVEN
 - spring-boot-starter-web-services
